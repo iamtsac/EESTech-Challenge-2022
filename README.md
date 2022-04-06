@@ -9,12 +9,12 @@ The given dataset was [20 Newsgroups](https://scikit-learn.org/0.19/datasets/twe
 
 ## Code:
 
-Our code was divided into 5 parts:
+Our code was divided into 4 parts:
 
 ##### 1. Import of packages
 ##### 2. Definition of custom functions
 ##### 3. Loading, cleaning and preprocessing of data
-##### 5. Model training and evaluation
+##### 4. Model training and evaluation
 
 ## Participants:
 #### Team Name : Machine Forgetting
