@@ -19,3 +19,4 @@ Our code was divided into 4 parts:
 ## Participants:
 #### Team Name : Machine Forgetting
 #### Members : [@AntonisPar](https://github.com/AntonisPar), [@iamtsac](https://github.com/iamtsac), [@jpavlakis](https://github.com/jpavlakis)
+### UPDATE : We are the winning team of the challenge.
